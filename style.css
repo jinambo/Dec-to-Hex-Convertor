@@ -3,12 +3,12 @@ body {
 }
 .example {
   padding: 100px;
-  background: rgb(0, 247, 247);
+  background: rgb(150, 39, 255);
   color: white;
   font-size: 36px;
-  box-shadow: 0 6px 35px rgba(0,247,247, .75);
+  box-shadow: 0 6px 35px rgba(150, 39, 255, .75);
   border-radius: 5px;
-  color: #000;
+  color: #fff;
 }
 .example small {
     font-size: 16px;
